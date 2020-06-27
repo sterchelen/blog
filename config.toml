@@ -43,7 +43,7 @@ theme = "LoveIt"
     wieght = 4
   [[menu.main]]
     identifier = "shamrock"
-    pre = "<img style='width:25px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Emblem-shamrock.svg/240px-Emblem-shamrock.svg.png'/>"
+    pre = "<img style='width:25px' src='images/shamrock.png'/>"
     post = ""
     name = "Shamrock project"
     url = "/shamrock/"
