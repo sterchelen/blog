@@ -203,15 +203,6 @@ theme = "LoveIt"
     pinterest = ""
     baidu = ""
 
-  #  Analytics config
-  [params.analytics]
-    enable = true
-    # Google Analytics
-    [params.analytics.google]
-      id = "UA-171087380-1"
-      # whether to anonymize IP
-      anonymizeIP = true
-
   #  Compatibility config
   [params.compatibility]
     # whether to use Polyfill.io to be compatible with older browsers
