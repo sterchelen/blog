@@ -62,7 +62,7 @@ enableEmoji = true
   # site default theme ("light", "dark", "auto")
   defaultTheme = "auto"
   #  date format
-  dateFormat = "2006-01-31"
+  dateFormat = "2006-01-02"
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
 
@@ -179,10 +179,8 @@ enableEmoji = true
     [params.page.toc]
       # whether to enable the table of the contents
       enable = true
-      #  whether to keep the static table of the contents in front of the post
-      keepStatic = false
       # whether to make the table of the contents in the sidebar automatically collapsed
-      auto = true
+      auto = false
     #  Code config
     [params.page.code]
       # whether to show the copy button of the code block
@@ -243,7 +241,7 @@ enableEmoji = true
 
 # Author config
 [author]
-  name = "Nicolas Sterchele"
+  name = "sterchelen"
   email = ""
   link = "https://sterchelen.net"
 
