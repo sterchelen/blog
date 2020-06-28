@@ -130,13 +130,13 @@ theme = "LoveIt"
       gravatarEmail = ""
       avatarURL = "/images/avatar.png"
       title = "Nicolas Sterchele"
-      subtitle = "subtitle"
+      subtitle = "Learn, share, climb and drink coffee"
       # whether to use typeit animation for subtitle
       typeit = false
       # whether to show social links
       social = true
       #  disclaimer (HTML format is supported)
-      disclaimer = "disclaimer"
+      disclaimer = "Any views or opinions represented here are my <b>personal</b> opinions and do not represent those of people, institutions or organizations I'm involved with."
     # Home page posts
     [params.home.posts]
       enable = true
