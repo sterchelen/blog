@@ -180,7 +180,7 @@ enableEmoji = true
       # whether to enable the table of the contents
       enable = true
       #  whether to keep the static table of the contents in front of the post
-      keepStatic = true
+      keepStatic = false
       # whether to make the table of the contents in the sidebar automatically collapsed
       auto = true
     #  Code config
@@ -238,7 +238,7 @@ enableEmoji = true
       unsafe = true
   # Table Of Contents settings
   [markup.tableOfContents]
-    startLevel = 2
+    startLevel = 1
     endLevel = 6
 
 # Author config
