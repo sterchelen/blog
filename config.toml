@@ -54,7 +54,7 @@ theme = "LoveIt"
   #  LoveIt theme version
   version = "0.2.X"
   # site description
-  description = "nicolas sterchele"
+  description = "nicolas sterchele blog"
   # site keywords
   keywords = ["learn", "share"]
   # site default theme ("light", "dark", "auto")
