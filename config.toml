@@ -5,6 +5,8 @@ title = "Nicolas Sterchele blog - sterchelen.net"
 
 theme = "LoveIt"
 
+enableEmoji = true
+
 [menu]
   [[menu.main]]
     identifier = "posts"
