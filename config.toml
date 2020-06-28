@@ -136,7 +136,7 @@ theme = "LoveIt"
       # whether to show social links
       social = true
       #  disclaimer (HTML format is supported)
-      disclaimer = "Any views or opinions represented here are my <b>personal</b> opinions and do not represent those of people, institutions or organizations I'm involved with."
+      disclaimer = "Any views or opinions represented here are my <b>personal</b> ones and do not represent those of people, institutions or organizations I'm involved with."
     # Home page posts
     [params.home.posts]
       enable = true
