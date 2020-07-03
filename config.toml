@@ -43,14 +43,14 @@ enableEmoji = true
     url = "/about/"
     title = ""
     wieght = 4
-  [[menu.main]]
-    identifier = "shamrock"
-    pre = "<img style='width:25px' src='/images/shamrock.png'/>"
-    post = ""
-    name = "Shamrock project"
-    url = "/shamrock/"
-    title = ""
-    wieght = 5
+#  [[menu.main]]
+#    identifier = "shamrock"
+#    pre = "<img style='width:25px' src='/images/shamrock.png'/>"
+#    post = ""
+#    name = "Shamrock project"
+#    url = "/shamrock/"
+#    title = ""
+#    wieght = -1
 
 [params]
   #  LoveIt theme version
