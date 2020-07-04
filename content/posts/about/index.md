@@ -9,6 +9,9 @@ author: "Nicolas"
 share:
   enable: false
 ---
+
+{{< image src="/images/me_working.jpg" title="typical night" width="550px" caption="Typical evening" linked=false >}}
+
 ## Me in 10 bullet points or so
 
 * **3 jobs**
