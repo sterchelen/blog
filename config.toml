@@ -40,7 +40,7 @@ unsafe= true
         weight = 1 
   [[menu.footer]]
         name = "Github"
-        url = "https://github.com/example"
+        url = "https://github.com/sterchelen"
         weight = 2 
     [[menu.footer]]
         name = "Twitter"
