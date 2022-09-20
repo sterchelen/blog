@@ -1,6 +1,7 @@
 ---
 title: "About"
 date: 2022-09-20T21:38:50+02:00
+draft: false
 ---
 ## Me in 10 bullet points or so                                                                                                                                              
 * **french** living in **France**
