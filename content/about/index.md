@@ -17,10 +17,10 @@ I read and write english fluently. Top B2 level.
 ## Software preferences
 ### Tools                                  
 I try to use small tools, that follow the KISS principles.  
-My preferred `Linux` distribution is `Arch` but my server runs on FreeBSD.  
+I run `OpenBSD` on my personal desktop, `Arch Linux` on my professional laptop and my server runs on FreeBSD ; diversity, you know this word?  
 I use `i3` as a windows manager... it's stupid simple and do the job, the further the mouse from my hand is the better I am.  
 I felt in love with the `zsh` shell with `tmux` to keep my shells organized.  
-I use `vim` to edit anything that contains characters.  
+I use `nvim` to edit anything that contains characters.  
 I use `mutt` for my mails and `irssi` for chatting on `IRC`.
 
 ### Languages                              
@@ -30,7 +30,7 @@ I use `mutt` for my mails and `irssi` for chatting on `IRC`.
 
 ## Hardware configuration
 My current configuration is somewhat usual this days:  
-*hercule* as a desktop computer and *groot* as a laptop.
+*hercule* as a desktop computer and *groot* as a laptop and *batman* as a server.
 
 ### hercule
 - **Motherboard:** PRIME Z370-A
