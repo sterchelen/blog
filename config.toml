@@ -22,16 +22,22 @@ unsafe= true
         weight = 1 
 
   [[menu.main]]
+        identifier = "resume"
+        name = "Resume"
+        url = "/resume/my-resume.pdf"
+        weight = 2 
+
+  [[menu.main]]
         identifier = "about"
         name = "About"
         url = "/about/"
-        weight = 2 
+        weight = 3 
 
   [[menu.main]]
         identifier = "tags"
         name = "Tags"
         url = "/tags/"
-        weight = 3
+        weight = 4
 
 # Footer
   [[menu.footer]]
